@@ -18,10 +18,10 @@ function scr_Bozo_Enemy_Homer_AI_Normal_Setup()
 	#region Gameplay Variables
 	moveTick = 0;
 	
-	attackTimerMax = 40;
+	attackTimerMax = 60;
 	attackTimer = attackTimerMax;
 	
-	ufoTimerMax = 240;
+	ufoTimerMax = 300;
 	ufoTimer = ufoTimerMax;
 	#endregion
 }

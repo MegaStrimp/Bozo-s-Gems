@@ -14,7 +14,7 @@ if (!localPause)
 				isEnemy = true;
 				dmg = 1;
 				hsp = -4;
-				vsp = random_range(-1,1);
+				vsp = random_range(-.5,.5);
 				destroyIfOwnerNotAttack = false;
 				destroyAfterHit = true;
 				destroyOutsideRoom = true;

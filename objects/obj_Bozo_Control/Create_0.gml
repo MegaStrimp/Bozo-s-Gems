@@ -3,7 +3,7 @@
 #region Initialize Variables
 #region Gameplay Variables
 global.gameTitle = "Bozo";
-global.versionNumber = "1.0.1";
+global.versionNumber = "1.0.3";
 
 global.windowScaleTarget = 3;
 

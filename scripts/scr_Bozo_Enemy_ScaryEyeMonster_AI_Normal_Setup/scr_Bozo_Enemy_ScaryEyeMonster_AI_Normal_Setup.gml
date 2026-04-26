@@ -20,7 +20,7 @@ function scr_Bozo_Enemy_ScaryEyeMonster_AI_Normal_Setup()
 	
 	attackCount = 0;
 	attackCountMax = 6;
-	attackTimerMax = 60;
+	attackTimerMax = 90;
 	attackTimerMin = 5;
 	attackTimer = attackTimerMax;
 	#endregion

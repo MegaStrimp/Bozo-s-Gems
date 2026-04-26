@@ -13,7 +13,7 @@ function scr_Bozo_Attack_Execute_ScaryEyeMonster_Cannon()
 		owner = id;
 		isEnemy = true;
 		dmg = 1;
-		hsp = -5 * dirX;
+		hsp = -4 * dirX;
 		vsp = random_range(-.2,.2);
 		destroyIfOwnerNotAttack = false;
 		destroyAfterHit = true;
