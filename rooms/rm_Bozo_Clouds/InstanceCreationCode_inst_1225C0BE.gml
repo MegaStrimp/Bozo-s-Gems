@@ -1,0 +1,1 @@
+sprite_index = spr_Bozo_Enemy_ScaryEyeMonster_Flower_2;
